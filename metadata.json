@@ -1,0 +1,6 @@
+{
+  "name": "Trading AI",
+  "description": "AI trading assistant providing real-time market trends, automated technical analysis, and multimodal chart analysis for commodities, stocks, forex, and crypto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
